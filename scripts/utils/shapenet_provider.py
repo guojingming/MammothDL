@@ -2,6 +2,16 @@ import os
 import sys
 import numpy as np
 import h5py
+from easydict import EasyDict as edict
+
+
+def get_info():
+    info = edict()
+    info.point_num = 2048
+    info.channel = 3
+    info.class_num = 40
+    return info
+
 
 def download_data():
     BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))

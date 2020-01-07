@@ -1,4 +1,5 @@
 data
-data/*
 .idea
-.idea/*
+train_outputs
+test_outputs
+eval_outputs

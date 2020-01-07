@@ -1,7 +1,5 @@
 import matplotlib.pyplot as plt
-import operator
 import math
-from functools import reduce
 from mpl_toolkits.mplot3d import Axes3D
 import numpy as np
 
