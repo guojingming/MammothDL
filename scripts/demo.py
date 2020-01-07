@@ -58,7 +58,7 @@ def train():
             train_one_epoch(sess, ops)
 
             # Save the variables to disk.
-            if epoch % 10 == 0:
+            if epoch % 50 == 0:
                 save_path = saver.save(sess, os.path.join(cfg.model_dir, "model%03d.ckpt" % epoch))
                 print("Model saved in file: %s" % save_path)
 

@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be0e1719-8aed-4d03-82e0-eb0830640980" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/scripts/cfgs/pointnet_config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/models/pointnet_cls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/utils/tf_util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/MammothDL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MammothDL.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/utils/matplot_viewer.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/utils/matplot_viewer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/utils/shapenet_provider.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/utils/shapenet_provider.py" afterDir="false" />
-    </list>
+    <list default="true" id="be0e1719-8aed-4d03-82e0-eb0830640980" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
